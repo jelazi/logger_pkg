@@ -1,0 +1,11 @@
+name: logger_pkg
+description: >-
+  A small logging package for Dart and Flutter: levelled console output with
+  call-site information, optional rotating log files on IO platforms, and a
+  no-op file layer on the web.
+version: 0.1.0
+repository: https://github.com/jelazi/logger_pkg
+issue_tracker: https://github.com/jelazi/logger_pkg/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
